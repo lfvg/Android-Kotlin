@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kotlinho</string>
+    <string name="nao_clique_button_name">Não clique aqui</string>
+    <string name="falei_string">Falei pra não clicar porra</string>
+    <string name="main_texview_string">Olar Marilene</string>
+    <string name="intent_actvity_button_name">Atividade Intent</string>
+    <string name="intent_activity">Essa é uma Atividade Intent</string>
+    <string name="static_fragment_activity_button_name">Atividade Fragment S.</string>
+    <string name="told_you_so">Tá me tirando menor</string>
+    <string name="hello_h">Olar Marilene!</string>
+</resources>

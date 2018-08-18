@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Kotlin</string>
+    <string name="nao_clique_button_name">Do not click</string>
+    <string name="falei_string">I told you so</string>
+    <string name="main_texview_string">Hello World</string>
+    <string name="intent_actvity_button_name">Intent Activity</string>
+    <string name="intent_activity">This is a Intent Activity</string>
+    <string name="static_fragment_activity_button_name">S. Fragment Activity</string>
+    <string name="told_you_so">I told you so</string>
+    <string name="hello_h">Hello World!</string>
 </resources>
